@@ -3,7 +3,9 @@
 Welcome to Beatbox! This repo contains three directories:
 
 beatbox-frontend: a React TypeScript application for streaming music.
+
 beatbox-backend: a Go server application for streaming music.
+
 design: the design files for the Beatbox application.
 
 Each of the directories has its own README with detailed information on the respective folder.
