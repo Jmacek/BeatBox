@@ -1,0 +1,21 @@
+{
+  "name": "beatbox",
+  "version": "1.0.0",
+  "description": "A music streaming service",
+  "main": "index.js",
+  "scripts": {
+    "build:frontend": "cd beatbox-frontend && yarn build",
+    "build:backend": "cd beatbox-backend && go build",
+    "build": "yarn build:frontend && yarn build:backend",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streaming",
+    "music"
+  ],
+  "author": "Jake Macek",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.5.0"
+  }
+}

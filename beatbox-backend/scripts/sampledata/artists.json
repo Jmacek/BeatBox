@@ -1,0 +1,303 @@
+[
+    {
+        "ArtistID": "00ccdbb6-ce6f-4723-b51f-bee9698bbe0a",
+        "ArtistName": "Norma Perez I",
+        "AlbumIDs": [
+            "008bd23d-d5a9-458b-b4dc-bd1fbf782bc1"
+        ]
+    },
+    {
+        "ArtistID": "6aee8fc7-739b-4344-ae86-d07518f4a97e",
+        "ArtistName": "Irene Welch",
+        "AlbumIDs": [
+            "f78d2ffd-7229-4c2a-b4e2-78df54b5b3dd"
+        ]
+    },
+    {
+        "ArtistID": "c518f3fe-20fb-4d8d-beda-29d3a5713931",
+        "ArtistName": "Carol James",
+        "AlbumIDs": [
+            "01a3c78c-45bc-4e10-8ddd-2d8cd77dbf45"
+        ]
+    },
+    {
+        "ArtistID": "b4508043-0df3-4c24-abc0-aae888072697",
+        "ArtistName": "Nicole Barnes",
+        "AlbumIDs": [
+            "5280b1b1-04dc-46e3-b41c-05278f91edf9"
+        ]
+    },
+    {
+        "ArtistID": "b39be6f9-1a94-4a25-b001-11cbd2080f25",
+        "ArtistName": "Earl Robertson",
+        "AlbumIDs": [
+            "87f316a3-5485-47a3-b6e9-c457cd64e0e9"
+        ]
+    },
+    {
+        "ArtistID": "71a65228-e39b-40ac-95fd-64e8d4266617",
+        "ArtistName": "Russell Gray",
+        "AlbumIDs": [
+            "16944771-a1bb-4ddd-8e48-ea96988357ba"
+        ]
+    },
+    {
+        "ArtistID": "4494ff0c-73e2-4064-a8ce-a8e09e57a1e5",
+        "ArtistName": "Keith Flores III",
+        "AlbumIDs": [
+            "a78f5838-c589-40c3-b679-ed2bf985a0f7"
+        ]
+    },
+    {
+        "ArtistID": "993cb2ea-9f20-4f94-a074-40b367fc39df",
+        "ArtistName": "Ernest Moreno",
+        "AlbumIDs": [
+            "067f68a6-13af-48a1-8e92-c611fb4666b9"
+        ]
+    },
+    {
+        "ArtistID": "6cca44f9-eeb5-4036-88ce-a7850d3dce8c",
+        "ArtistName": "Robin Ramos",
+        "AlbumIDs": [
+            "e4faa898-67c1-4410-92c2-6b3178203858"
+        ]
+    },
+    {
+        "ArtistID": "9f685e8e-83e9-4647-8106-b276bd9f736a",
+        "ArtistName": "Paula Campbell",
+        "AlbumIDs": [
+            "8ce8cdd0-23cd-4d25-aa95-c3cd9723fda5"
+        ]
+    },
+    {
+        "ArtistID": "b2ad042b-a9ac-45a9-b5d9-ca85d5e4c018",
+        "ArtistName": "Russell White",
+        "AlbumIDs": [
+            "2dc1a86a-f8a5-40c9-bc8b-7d5825553fa6"
+        ]
+    },
+    {
+        "ArtistID": "535cfdbc-d456-44ef-9b93-7b8492387cb6",
+        "ArtistName": "Dr. Bobby Hayes",
+        "AlbumIDs": [
+            "0280febe-e131-4dc6-bea4-daf5efa54cc8"
+        ]
+    },
+    {
+        "ArtistID": "fa6df94f-652a-4053-afbe-484621a78c95",
+        "ArtistName": "Louise Murray",
+        "AlbumIDs": [
+            "9bbd7193-af41-4a5b-bb2c-3d4914c9fbd4"
+        ]
+    },
+    {
+        "ArtistID": "624af087-aa09-441f-b922-7c8381bad7e4",
+        "ArtistName": "Steven Olson",
+        "AlbumIDs": [
+            "178097dd-24fa-434c-8f4d-27b8d2a5e9a5"
+        ]
+    },
+    {
+        "ArtistID": "5384793c-645d-4930-8014-fe573abb562d",
+        "ArtistName": "Harry Nichols",
+        "AlbumIDs": [
+            "f41874fc-c225-49a2-b96e-50a403eefd96"
+        ]
+    },
+    {
+        "ArtistID": "2b869432-0e3a-49ab-a24b-ae1a32ba54c0",
+        "ArtistName": "Tammy Johnston",
+        "AlbumIDs": [
+            "ea1d301b-a3a8-48cf-8e00-292126396f2c"
+        ]
+    },
+    {
+        "ArtistID": "43938ed2-0205-49ce-a909-b41e4cc45ea5",
+        "ArtistName": "Larry Cooper",
+        "AlbumIDs": [
+            "289fd361-61d7-4e79-acdb-781060c513d2"
+        ]
+    },
+    {
+        "ArtistID": "ab6787a0-294e-41cf-b847-4bf2a2be7872",
+        "ArtistName": "Brandon Graham Sr.",
+        "AlbumIDs": [
+            "c5273c22-f070-44ec-9bb1-89b125dbc32d"
+        ]
+    },
+    {
+        "ArtistID": "658de13f-1bfb-4d0f-8aa5-e31ca4c3b676",
+        "ArtistName": "Deborah Harris",
+        "AlbumIDs": [
+            "4486bde9-56d7-4d12-bbf5-3e746574283b"
+        ]
+    },
+    {
+        "ArtistID": "38a1a86b-27b9-4e31-8029-b974214b7477",
+        "ArtistName": "Jose Lane",
+        "AlbumIDs": [
+            "ff22019b-5801-45e3-ab33-419292c68cc5"
+        ]
+    },
+    {
+        "ArtistID": "91935f82-3c59-4b82-8c32-1670e660e0c7",
+        "ArtistName": "Fred Day",
+        "AlbumIDs": [
+            "9e55522c-e030-4c94-b90c-b825822a4792"
+        ]
+    },
+    {
+        "ArtistID": "544ee9a3-e8d0-47f9-beae-e7c21577e297",
+        "ArtistName": "Keith Freeman",
+        "AlbumIDs": [
+            "9d19fa8f-ef23-4ab8-bc8d-4d4abaaf3139"
+        ]
+    },
+    {
+        "ArtistID": "03c531bd-8f3b-4368-9a2f-17aa2db49cbe",
+        "ArtistName": "Patrick Armstrong",
+        "AlbumIDs": [
+            "3324b22e-0219-4ed0-a438-48e9f4fb796e"
+        ]
+    },
+    {
+        "ArtistID": "bb622e7b-f814-4eb4-95b2-1889635f992d",
+        "ArtistName": "Gerald Gardner",
+        "AlbumIDs": [
+            "07a0d2a4-9788-488a-8add-af691429befc"
+        ]
+    },
+    {
+        "ArtistID": "96f30b08-86e1-46b8-954e-4b55636217c6",
+        "ArtistName": "Stephanie Woods",
+        "AlbumIDs": [
+            "1e7a46e3-c51d-4c8c-99a7-f48381395f0b"
+        ]
+    },
+    {
+        "ArtistID": "717bb2a1-8a7f-4217-be71-b213c7e879d4",
+        "ArtistName": "Gary Fox",
+        "AlbumIDs": [
+            "f441eaca-246f-4f97-84ef-65a1cf78af54"
+        ]
+    },
+    {
+        "ArtistID": "19314af6-83ca-486a-884f-f567ac29b534",
+        "ArtistName": "Joe Elliott",
+        "AlbumIDs": [
+            "5be62446-2df3-404f-b214-82fdf967a45e"
+        ]
+    },
+    {
+        "ArtistID": "de7587f2-e07b-443d-b898-6544db3ca1b1",
+        "ArtistName": "Richard Marshall DVM",
+        "AlbumIDs": [
+            "49949a78-54e5-448e-a452-663a31594b15"
+        ]
+    },
+    {
+        "ArtistID": "9e53deea-5997-42e4-b7b1-aa29f9d32ace",
+        "ArtistName": "Joan Barnes",
+        "AlbumIDs": [
+            "2549de38-fb23-450f-ae1c-015f6fb08c1c"
+        ]
+    },
+    {
+        "ArtistID": "a02182a6-2e28-433c-9251-1ba1692ffb5a",
+        "ArtistName": "Anna Adams MD",
+        "AlbumIDs": [
+            "9cd41890-2d98-4b06-80cd-fb43439fee56"
+        ]
+    },
+    {
+        "ArtistID": "b8e1112c-8ed8-4a8f-9fc8-6f0c8767acba",
+        "ArtistName": "Mark Payne PhD",
+        "AlbumIDs": [
+            "ffc66340-21f8-4e77-a791-fa33f12eda91"
+        ]
+    },
+    {
+        "ArtistID": "dcf80117-6326-48d7-af43-3f500819d7ba",
+        "ArtistName": "Anthony Jacobs II",
+        "AlbumIDs": [
+            "f7c47d76-02c3-469a-89e4-8e10a903c7bd"
+        ]
+    },
+    {
+        "ArtistID": "85071e63-5260-4e0f-9adf-4997110eed3f",
+        "ArtistName": "William Bell",
+        "AlbumIDs": [
+            "075dee42-98e1-4243-b8d8-20070557607a"
+        ]
+    },
+    {
+        "ArtistID": "006ddcc0-76fe-4c0d-9d1d-5c02394d3b6b",
+        "ArtistName": "Dr. Larry Willis",
+        "AlbumIDs": [
+            "1228cfa4-5ee0-448c-8476-45db90b5c4be"
+        ]
+    },
+    {
+        "ArtistID": "f690ab69-f869-48d7-8389-6dbc74132081",
+        "ArtistName": "Joe Dean",
+        "AlbumIDs": [
+            "d0a6054b-acf5-4bb6-97d8-f691cb5b9654"
+        ]
+    },
+    {
+        "ArtistID": "b674937c-4122-448e-849e-8b87b69428a3",
+        "ArtistName": "Jose Reed",
+        "AlbumIDs": [
+            "69809050-0972-4f35-b65b-bae7095b86bc"
+        ]
+    },
+    {
+        "ArtistID": "5cd71608-b9f7-4d98-bc6c-c9be35555133",
+        "ArtistName": "Jason Martinez",
+        "AlbumIDs": [
+            "ce505856-ee43-43c4-8d60-8dfbbecef31e"
+        ]
+    },
+    {
+        "ArtistID": "820cac59-1768-4ede-bff1-8cda308747d5",
+        "ArtistName": "Albert Hanson PhD",
+        "AlbumIDs": [
+            "ed676c43-8cf3-4888-8858-4cab0b32a551"
+        ]
+    },
+    {
+        "ArtistID": "3d745d4e-a7e6-4c71-bd47-86985f914184",
+        "ArtistName": "Sharon Perkins",
+        "AlbumIDs": [
+            "84e97749-471a-46e4-86ea-26a0597a95bb"
+        ]
+    },
+    {
+        "ArtistID": "18a53de3-cc70-46c5-b011-474ad7e7356f",
+        "ArtistName": "Roy Ramirez",
+        "AlbumIDs": [
+            "7e3dfd2e-afc9-4582-99b5-7c7bd15128bc"
+        ]
+    },
+    {
+        "ArtistID": "ce4f5c28-4a5e-4cc0-9ff9-575dfdf5d9eb",
+        "ArtistName": "Louis Schmidt",
+        "AlbumIDs": [
+            "0cff9d33-09b1-4031-a121-381f4f3fd86e"
+        ]
+    },
+    {
+        "ArtistID": "277e3466-a854-4e93-a5e4-ddb8e6a44e25",
+        "ArtistName": "Christina Rivera",
+        "AlbumIDs": [
+            "3630943a-81f9-48ce-a4a1-28f57116f027"
+        ]
+    },
+    {
+        "ArtistID": "2aec28a0-3ae1-4952-80eb-e2a90b18f8a4",
+        "ArtistName": "Jennifer Davis",
+        "AlbumIDs": [
+            "cd898b92-1ed3-441c-af94-d0d1ed89aa44"
+        ]
+    }
+]
