@@ -1,0 +1,346 @@
+[
+  {
+    "AlbumID": "008bd23d-d5a9-458b-b4dc-bd1fbf782bc1",
+    "AlbumName": "Wikivu",
+    "ArtistID": "00ccdbb6-ce6f-4723-b51f-bee9698bbe0a",
+    "SongIDs": [
+      "83876ab2-04c8-47a1-b5c7-86eeb8a11442"
+    ]
+  },
+  {
+    "AlbumID": "f78d2ffd-7229-4c2a-b4e2-78df54b5b3dd",
+    "AlbumName": "Podcat",
+    "ArtistID": "6aee8fc7-739b-4344-ae86-d07518f4a97e",
+    "SongIDs": [
+      "07e413f6-fb67-4ada-83ad-da4bd05fcbbf"
+    ]
+  },
+  {
+    "AlbumID": "01a3c78c-45bc-4e10-8ddd-2d8cd77dbf45",
+    "AlbumName": "Oyope",
+    "ArtistID": "c518f3fe-20fb-4d8d-beda-29d3a5713931",
+    "SongIDs": [
+      "2726306e-7902-4a8e-9a85-5f0064850505"
+    ]
+  },
+  {
+    "AlbumID": "5280b1b1-04dc-46e3-b41c-05278f91edf9",
+    "AlbumName": "Babbleset",
+    "ArtistID": "b4508043-0df3-4c24-abc0-aae888072697",
+    "SongIDs": [
+      "422f5837-c7bb-45f4-9ed4-011d1666125e"
+    ]
+  },
+  {
+    "AlbumID": "87f316a3-5485-47a3-b6e9-c457cd64e0e9",
+    "AlbumName": "Mynte",
+    "ArtistID": "b39be6f9-1a94-4a25-b001-11cbd2080f25",
+    "SongIDs": [
+      "0d9487ba-c17f-4685-b32c-ddcb3d61bf35"
+    ]
+  },
+  {
+    "AlbumID": "16944771-a1bb-4ddd-8e48-ea96988357ba",
+    "AlbumName": "Skimia",
+    "ArtistID": "71a65228-e39b-40ac-95fd-64e8d4266617",
+    "SongIDs": [
+      "e8de1e07-6418-434c-abf3-6eaef9b9e80a"
+    ]
+  },
+  {
+    "AlbumID": "a78f5838-c589-40c3-b679-ed2bf985a0f7",
+    "AlbumName": "Yotz",
+    "ArtistID": "4494ff0c-73e2-4064-a8ce-a8e09e57a1e5",
+    "SongIDs": [
+      "a50f4996-9456-4f8e-a39c-77bba1eda62b"
+    ]
+  },
+  {
+    "AlbumID": "067f68a6-13af-48a1-8e92-c611fb4666b9",
+    "AlbumName": "InnoZ",
+    "ArtistID": "993cb2ea-9f20-4f94-a074-40b367fc39df",
+    "SongIDs": [
+      "1c4a97a1-0eb2-4513-a014-b76a6aa51c54"
+    ]
+  },
+  {
+    "AlbumID": "e4faa898-67c1-4410-92c2-6b3178203858",
+    "AlbumName": "Divanoodle",
+    "ArtistID": "6cca44f9-eeb5-4036-88ce-a7850d3dce8c",
+    "SongIDs": [
+      "df8c4480-6ed7-4730-bb5e-b5fb1c5d835d"
+    ]
+  },
+  {
+    "AlbumID": "8ce8cdd0-23cd-4d25-aa95-c3cd9723fda5",
+    "AlbumName": "Zoomzone",
+    "ArtistID": "9f685e8e-83e9-4647-8106-b276bd9f736a",
+    "SongIDs": [
+      "28606db7-e55b-4c08-b90c-cf4b0364959b"
+    ]
+  },
+  {
+    "AlbumID": "2dc1a86a-f8a5-40c9-bc8b-7d5825553fa6",
+    "AlbumName": "Edgeclub",
+    "ArtistID": "b2ad042b-a9ac-45a9-b5d9-ca85d5e4c018",
+    "SongIDs": [
+      "d4e166aa-4170-49d4-b949-59a42e31d9bd"
+    ]
+  },
+  {
+    "AlbumID": "0280febe-e131-4dc6-bea4-daf5efa54cc8",
+    "AlbumName": "Flashpoint",
+    "ArtistID": "535cfdbc-d456-44ef-9b93-7b8492387cb6",
+    "SongIDs": [
+      "3aca1b54-01d2-44d5-be06-78b0994e7d10"
+    ]
+  },
+  {
+    "AlbumID": "9bbd7193-af41-4a5b-bb2c-3d4914c9fbd4",
+    "AlbumName": "Skyndu",
+    "ArtistID": "fa6df94f-652a-4053-afbe-484621a78c95",
+    "SongIDs": [
+      "8ff94a0b-9a2a-453c-960e-3560f71195a5"
+    ]
+  },
+  {
+    "AlbumID": "178097dd-24fa-434c-8f4d-27b8d2a5e9a5",
+    "AlbumName": "Mydo",
+    "ArtistID": "624af087-aa09-441f-b922-7c8381bad7e4",
+    "SongIDs": [
+      "118a0b47-d886-4f2e-8a05-49c0087e81f2"
+    ]
+  },
+  {
+    "AlbumID": "f41874fc-c225-49a2-b96e-50a403eefd96",
+    "AlbumName": "Jabberbean",
+    "ArtistID": "5384793c-645d-4930-8014-fe573abb562d",
+    "SongIDs": [
+      "36ec89aa-fe96-44ac-9d45-b2d5e1b95764"
+    ]
+  },
+  {
+    "AlbumID": "ea1d301b-a3a8-48cf-8e00-292126396f2c",
+    "AlbumName": "Jetwire",
+    "ArtistID": "2b869432-0e3a-49ab-a24b-ae1a32ba54c0",
+    "SongIDs": [
+      "42f1f1ae-0a09-47aa-b912-838ac7feace3"
+    ]
+  },
+  {
+    "AlbumID": "289fd361-61d7-4e79-acdb-781060c513d2",
+    "AlbumName": "Kwinu",
+    "ArtistID": "43938ed2-0205-49ce-a909-b41e4cc45ea5",
+    "SongIDs": [
+      "e4bca1d4-617f-44d3-988c-0531c02ba2ba"
+    ]
+  },
+  {
+    "AlbumID": "c5273c22-f070-44ec-9bb1-89b125dbc32d",
+    "AlbumName": "Zoonder",
+    "ArtistID": "ab6787a0-294e-41cf-b847-4bf2a2be7872",
+    "SongIDs": [
+      "469dfa6f-a777-4fb3-9d1c-63d71c0a9116"
+    ]
+  },
+  {
+    "AlbumID": "4486bde9-56d7-4d12-bbf5-3e746574283b",
+    "AlbumName": "Skajo",
+    "ArtistID": "658de13f-1bfb-4d0f-8aa5-e31ca4c3b676",
+    "SongIDs": [
+      "d5d5361e-516d-44e5-846c-029d572a44ba"
+    ]
+  },
+  {
+    "AlbumID": "ff22019b-5801-45e3-ab33-419292c68cc5",
+    "AlbumName": "Kare",
+    "ArtistID": "38a1a86b-27b9-4e31-8029-b974214b7477",
+    "SongIDs": [
+      "27ff9831-68c7-4043-b0a3-92fa1b7f654d"
+    ]
+  },
+  {
+    "AlbumID": "9e55522c-e030-4c94-b90c-b825822a4792",
+    "AlbumName": "Jaxbean",
+    "ArtistID": "91935f82-3c59-4b82-8c32-1670e660e0c7",
+    "SongIDs": [
+      "7d294706-abe5-4430-9da9-37aeee783926"
+    ]
+  },
+  {
+    "AlbumID": "9d19fa8f-ef23-4ab8-bc8d-4d4abaaf3139",
+    "AlbumName": "Skippad",
+    "ArtistID": "544ee9a3-e8d0-47f9-beae-e7c21577e297",
+    "SongIDs": [
+      "3f0086ce-8935-47d8-b136-b005b985f8aa"
+    ]
+  },
+  {
+    "AlbumID": "3324b22e-0219-4ed0-a438-48e9f4fb796e",
+    "AlbumName": "Blognation",
+    "ArtistID": "03c531bd-8f3b-4368-9a2f-17aa2db49cbe",
+    "SongIDs": [
+      "3936d2e7-a6ad-4969-a568-11ddb413648b"
+    ]
+  },
+  {
+    "AlbumID": "07a0d2a4-9788-488a-8add-af691429befc",
+    "AlbumName": "Edgeblab",
+    "ArtistID": "bb622e7b-f814-4eb4-95b2-1889635f992d",
+    "SongIDs": [
+      "0936847d-2987-4785-b405-4493071626c1"
+    ]
+  },
+  {
+    "AlbumID": "1e7a46e3-c51d-4c8c-99a7-f48381395f0b",
+    "AlbumName": "Fivebridge",
+    "ArtistID": "96f30b08-86e1-46b8-954e-4b55636217c6",
+    "SongIDs": [
+      "da00beb2-70ce-421f-a548-d3d870564f6a"
+    ]
+  },
+  {
+    "AlbumID": "f441eaca-246f-4f97-84ef-65a1cf78af54",
+    "AlbumName": "Jetwire",
+    "ArtistID": "717bb2a1-8a7f-4217-be71-b213c7e879d4",
+    "SongIDs": [
+      "8f92ef56-69da-4f23-82e0-d93e598291c7"
+    ]
+  },
+  {
+    "AlbumID": "5be62446-2df3-404f-b214-82fdf967a45e",
+    "AlbumName": "Bluejam",
+    "ArtistID": "19314af6-83ca-486a-884f-f567ac29b534",
+    "SongIDs": [
+      "3ba37f30-33f5-4376-a245-9f3acf1fdcfc"
+    ]
+  },
+  {
+    "AlbumID": "49949a78-54e5-448e-a452-663a31594b15",
+    "AlbumName": "Dabshots",
+    "ArtistID": "de7587f2-e07b-443d-b898-6544db3ca1b1",
+    "SongIDs": [
+      "598b771f-39db-4830-9501-aca2b0606743"
+    ]
+  },
+  {
+    "AlbumID": "2549de38-fb23-450f-ae1c-015f6fb08c1c",
+    "AlbumName": "Agivu",
+    "ArtistID": "9e53deea-5997-42e4-b7b1-aa29f9d32ace",
+    "SongIDs": [
+      "23eaa149-ccd4-4d52-b26c-bddd9613a962"
+    ]
+  },
+  {
+    "AlbumID": "9cd41890-2d98-4b06-80cd-fb43439fee56",
+    "AlbumName": "Wordpedia",
+    "ArtistID": "a02182a6-2e28-433c-9251-1ba1692ffb5a",
+    "SongIDs": [
+      "2755436a-3144-465f-b530-d9266c962fa4"
+    ]
+  },
+  {
+    "AlbumID": "ffc66340-21f8-4e77-a791-fa33f12eda91",
+    "AlbumName": "Oyope",
+    "ArtistID": "b8e1112c-8ed8-4a8f-9fc8-6f0c8767acba",
+    "SongIDs": [
+      "99ceb873-9bec-4f0f-911f-3bf0f327eee2"
+    ]
+  },
+  {
+    "AlbumID": "f7c47d76-02c3-469a-89e4-8e10a903c7bd",
+    "AlbumName": "Browsetype",
+    "ArtistID": "dcf80117-6326-48d7-af43-3f500819d7ba",
+    "SongIDs": [
+      "d8a4a644-47b0-490a-88c6-54d8b48c450d"
+    ]
+  },
+  {
+    "AlbumID": "075dee42-98e1-4243-b8d8-20070557607a",
+    "AlbumName": "Zooveo",
+    "ArtistID": "85071e63-5260-4e0f-9adf-4997110eed3f",
+    "SongIDs": [
+      "c967000b-aadb-4865-9f50-361b8931e5aa"
+    ]
+  },
+  {
+    "AlbumID": "1228cfa4-5ee0-448c-8476-45db90b5c4be",
+    "AlbumName": "Avamba",
+    "ArtistID": "006ddcc0-76fe-4c0d-9d1d-5c02394d3b6b",
+    "SongIDs": [
+      "e8637941-a93c-41f1-bc99-b6e1a61b5007"
+    ]
+  },
+  {
+    "AlbumID": "d0a6054b-acf5-4bb6-97d8-f691cb5b9654",
+    "AlbumName": "Edgeblab",
+    "ArtistID": "f690ab69-f869-48d7-8389-6dbc74132081",
+    "SongIDs": [
+      "39d6c57e-e5ab-4be8-9411-c07b084fae42"
+    ]
+  },
+  {
+    "AlbumID": "69809050-0972-4f35-b65b-bae7095b86bc",
+    "AlbumName": "Browsezoom",
+    "ArtistID": "b674937c-4122-448e-849e-8b87b69428a3",
+    "SongIDs": [
+      "b13671fe-0ea6-4c61-b5d9-c9962f96661f"
+    ]
+  },
+  {
+    "AlbumID": "ce505856-ee43-43c4-8d60-8dfbbecef31e",
+    "AlbumName": "Kwideo",
+    "ArtistID": "5cd71608-b9f7-4d98-bc6c-c9be35555133",
+    "SongIDs": [
+      "540c660c-7375-40a5-abfc-3738967d039a"
+    ]
+  },
+  {
+    "AlbumID": "ed676c43-8cf3-4888-8858-4cab0b32a551",
+    "AlbumName": "Bubblebox",
+    "ArtistID": "820cac59-1768-4ede-bff1-8cda308747d5",
+    "SongIDs": [
+      "2875506a-cb16-489b-8683-cd4946efabea"
+    ]
+  },
+  {
+    "AlbumID": "84e97749-471a-46e4-86ea-26a0597a95bb",
+    "AlbumName": "Jayo",
+    "ArtistID": "3d745d4e-a7e6-4c71-bd47-86985f914184",
+    "SongIDs": [
+      "a74f596f-e751-458f-a9c3-81abd72b1e13"
+    ]
+  },
+  {
+    "AlbumID": "7e3dfd2e-afc9-4582-99b5-7c7bd15128bc",
+    "AlbumName": "Skimia",
+    "ArtistID": "18a53de3-cc70-46c5-b011-474ad7e7356f",
+    "SongIDs": [
+      "c7608131-c404-4e48-b175-e18a88b5676d"
+    ]
+  },
+  {
+    "AlbumID": "0cff9d33-09b1-4031-a121-381f4f3fd86e",
+    "AlbumName": "Gabtune",
+    "ArtistID": "ce4f5c28-4a5e-4cc0-9ff9-575dfdf5d9eb",
+    "SongIDs": [
+      "dd21ff41-8e37-4215-82f6-f8d599fd0135"
+    ]
+  },
+  {
+    "AlbumID": "3630943a-81f9-48ce-a4a1-28f57116f027",
+    "AlbumName": "Bluejam",
+    "ArtistID": "277e3466-a854-4e93-a5e4-ddb8e6a44e25",
+    "SongIDs": [
+      "9b0dd750-5886-43a8-aa1c-aa4280b7c399"
+    ]
+  },
+  {
+    "AlbumID": "cd898b92-1ed3-441c-af94-d0d1ed89aa44",
+    "AlbumName": "Camido",
+    "ArtistID": "2aec28a0-3ae1-4952-80eb-e2a90b18f8a4",
+    "SongIDs": [
+      "b74214de-f917-477c-80ab-ba772cb076a5"
+    ]
+  }
+]
