@@ -32,11 +32,14 @@ const FilePathToMp3 = "scripts/sampledata/songs"
 // Scripts to create and insert data for the tables listed in models/model.go
 // You can simply use the existing json files in sampledata if they exist otherwise generate your own
 func main() {
+//    // Generate random data into JSON
 //    generateArtists()
 //    generateAlbumsAndSongsFromArtists()
+//    // Use existing JSON to insert into DynamoDB
 //    insertArtistsFromJsonToDynamoDB()
 //    insertAlbumsFromJsonToDynamoDB()
 //    insertSongsFromJsonIntoDynamoDB()
+//   //  Use existing JSON to rename songs to match generated SongIDs
 //    renameMp3FilesToSongIDsJson()
 }
 

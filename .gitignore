@@ -9,6 +9,19 @@
 # testing
 /coverage
 
+# Terraform
+# --------
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# terraform lock
+/beatbox-backend/*.terraform*
+# ---------
+
 # production
 /build
 /beatbox-frontend/build

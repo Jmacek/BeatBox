@@ -361,7 +361,6 @@ func SearchInAlbumTable(keyword string) ([]models.Album, error) {
     return albums, nil
 }
 
-
 // GetSongFromS3ById Retrieves the specific song by ID of the S3 bucket
 // This assumes the file is at the root
 // Returns io.ReadCloser to be streamed to the requestor
